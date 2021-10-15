@@ -8,6 +8,7 @@ namespace BasicCalculator
 {
     class CPerimeter : Geometry
     {
+        private readonly string aws_secret_access_key = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY";
         protected internal static void Rectangle()
         {
             //input
